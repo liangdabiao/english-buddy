@@ -89,3 +89,8 @@ godot --path . --script res://tools/render_all.gd
 ## 协议
 
 [MIT](LICENSE) © 2026 liangdabiao
+
+## 致谢
+
+资料参考来源： https://github.com/xckevin/magic-english-buddy
+感谢社区支持 https://linux.do 
