@@ -1,0 +1,17 @@
+# Godot 导入缓存（二进制，可重新生成）
+.import/
+import/
+export.cfg
+data_*/
+*.translation
+
+# 构建产物与本地截图
+.build/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 操作系统元数据
+.DS_Store
+Thumbs.db
